@@ -1,0 +1,26 @@
+Barco1 = Dimensões 1 linha x 3 colunas
+
+
+
+Barco2 = Dimensões 4 linhas x 1 colunas
+
+
+
+
+Barco3 = Dimensões 2 linhas x 2 colunas
+---------------------------------------------------------------------------------------------------------------------------
+
+Cada Barco tem uma pontuação diferente;
+
+
+Barco 1 = 10 Pontos
+
+
+Barco 2 = 20 pontos
+
+
+Barco 3 = 20 Pontos
+
+----------------------------------------------------------------------------------------------------------
+Os pontos só serão somados caso o Jogador destrua completamente o Barco.
+
